@@ -2,7 +2,7 @@
 
 ![istockphoto-1196954772-612x612](https://user-images.githubusercontent.com/98879159/164448764-3b52ca2c-076f-4421-9f61-cd6a46453c19.jpg)
 
-## EN qué consiste
+## En qué consiste
 
 Es el juego del *Ahorcado* de toda la vida, en este caso, solo con palabras con cinco letras, como el juego de moda *Wordle*
 
